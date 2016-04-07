@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vish9u Attendance Counter using Bluetooth</string>
+    <string name="hello_world">Love you ra janu ..ekku feel kaku ra ..nethi ne unta epudu ..love you ...ummah ..nanu pelli cheskuntava ? natho lifelong spend chestava janeman ?</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_class">Class Management</string>
+    <string name="title_activity_scanning">Bluetooth Scanning</string>
+    <string name="title_activity_email_absentee">Email Absentees</string>
+    <string name="title_activity_report">Report Activity</string>
+
+</resources>
