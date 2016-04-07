@@ -1,7 +1,5 @@
-Attendance-AutoCounter
+Vish9u Bluetooth Attendance Counter
 ======================
 
-Attendance AutoCounter is a management app based on Android system that can count attendance automatically for every class.
-
-http://youtu.be/MZYnYy2Nj30
+A Simple Android Application to take the attendance of students using Bluetooth
 
